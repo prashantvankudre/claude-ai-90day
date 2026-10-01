@@ -12,6 +12,6 @@ applied AI skills: Claude API, agents, RAG, and AI for financial reporting.
 1. `python -m venv .venv` and activate it
 2. `pip install -r requirements.txt`
 3. Copy `.env.example` to `.env` and add your key
-4. `python day01_hello.py`
+4. `python day01/hello.py`
 
 > All examples use synthetic or public data.
